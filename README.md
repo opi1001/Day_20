@@ -1,6 +1,5 @@
-![Screenshot (139)](https://github.com/opi1001/Day_20/assets/134625691/62e43228-22b3-45ea-ba78-d4c973c9e7e4)
+![Screenshot (139)](https://github.com/opi1001/Day_20/assets/134625691/62e43228-22b3-45ea-ba78-d4c973c9e7e4)   ![Screenshot (140)](https://github.com/opi1001/Day_20/assets/134625691/1b42a467-94c8-4b11-9eb1-679c483d378e)
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
