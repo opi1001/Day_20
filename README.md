@@ -1,4 +1,13 @@
-![Screenshot (139)](https://github.com/opi1001/Day_20/assets/134625691/62e43228-22b3-45ea-ba78-d4c973c9e7e4)   ![Screenshot (140)](https://github.com/opi1001/Day_20/assets/134625691/1b42a467-94c8-4b11-9eb1-679c483d378e)
+![Screenshot (139)](https://github.com/opi1001/Day_20/assets/134625691/62e43228-22b3-45ea-ba78-d4c973c9e7e4)  
+"Excited to announce my completion of Flutter with GetX! 🎉
+With this powerful combination, I'm equipped to build dynamic and efficient mobile applications. 📱
+GetX's simplicity and flexibility have truly revolutionized my development process. 💻
+From state management to navigation, Flutter with GetX offers unparalleled ease and functionality. 🚀 
+Proud to have added these skills to my toolkit and ready to tackle any project head-on. 💪
+Let's connect and discuss how we can leverage Flutter and GetX for your next app idea! 🔍
+
+
+![Screenshot (140)](https://github.com/opi1001/Day_20/assets/134625691/1b42a467-94c8-4b11-9eb1-679c483d378e)
 ![Screenshot (141)](https://github.com/opi1001/Day_20/assets/134625691/f891a322-c9b3-48e4-9233-a45201191e8e)
 
 
